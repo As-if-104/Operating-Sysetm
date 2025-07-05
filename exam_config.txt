@@ -1,0 +1,5 @@
+physics_1:60
+physics_2:180
+chemistry_1:600
+chemistry_2:600
+higher_math:60
